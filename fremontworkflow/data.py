@@ -1,7 +1,7 @@
 import os
 from urllib.request import urlretrieve
 import pandas as pd
-import s.pyplot as plt
+import matplotlib.pyplot as plt
 
 URL = 'https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD'
 
