@@ -1,3 +1,5 @@
+appnope==0.1.0
+>>>>>>> bd0c994460edb069ea2ab6d0c87c777f8c64207d
 atomicwrites==1.1.5
 attrs==18.1.0
 backcall==0.1.0
@@ -30,10 +32,13 @@ numpy==1.15.0
 pandas==0.23.4
 pandocfilters==1.4.2
 parso==0.3.1
+pexpect==4.6.0
 pickleshare==0.7.4
 pluggy==0.7.1
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
+ptyprocess==0.6.0
+>>>>>>> bd0c994460edb069ea2ab6d0c87c777f8c64207d
 py==1.5.4
 Pygments==2.2.0
 pyparsing==2.2.0
